@@ -30,4 +30,5 @@ The NSF research project focuses on understanding plant roots and their adaptati
 
 ## My Blog
 
-[My Blog](_posts/2024-01-06-week1.md/2024-05-20-week2.md)
+[Week 1 Blog](_posts/2024-01-06-week1.md)
+[Week 2 Blog](_posts/2024-05-20-week2.md)

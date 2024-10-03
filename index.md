@@ -17,7 +17,7 @@ title: Summer 2024 DREU Project Site
 - **Name**: Jeremy Waisome
 - **School**: University of Florida, Department of Engineering Education
 - **Area of Research**: Dr. Jeremy Waisome's research interests lie in broadening participation in STEM, particularly for historically underrepresented groups. She focuses on creating supportive educational environments that encourage the persistence and success of minority students in STEM disciplines.
-- **Link to Their Website**: [Jeremy Waisome](https://blackcomputeher.org/)
+- **Link to Their Website**: [Jeremy Waisome](https://www.jeremywaisome.com/)
 
 
 ## About My Project
